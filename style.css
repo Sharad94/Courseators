@@ -1,0 +1,56 @@
+body{
+	width:100%;
+}
+.errors{
+	color:red;
+}
+.message{
+	float:right;
+}
+.message .welcome{
+	float: left;
+	padding-right: 10px;
+}
+.message .logout{
+	margin-right: 10px;
+}
+#course_form{
+	
+	height : 40px;
+}
+/*
+Login Page--index.php
+*/
+#index-login{
+	
+	float: right;
+	width:25%;
+}
+/*#index-container{
+	display: table-cell;
+	vertical-align: middle;
+}*/
+#index-container{
+	margin-top:15%;
+}
+
+/*
+Previous Semester courses done page
+*/
+#course_done-form{
+	width: 85%;
+}
+/*
+Course Page
+*/
+.review-form{
+	width : 100%;
+}
+.left-form{
+	width:45%;
+	float: left;
+}
+.right-form{
+	width: 45%;
+	float: right;
+}

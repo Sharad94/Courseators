@@ -1,0 +1,49 @@
+#Basic Sciences (BS) Core
+CYL110 Physical Chemistry: Concepts and Applications
+CYL120 Inorganic and Organic Chemistry: Concepts and Applications
+CYP100 Chemistry Laboratory MAL110 Mathematics - I MAL120 Mathematics - II PHP100 Physics Laboratory
+#Departmental Electives (DE)
+CHD310 Mini Project (CH)
+CHL133 Powder Processing and Technology CHL260 Applications of Programming in Chemical Engineering
+CHL275 Safety and Hazards in the Process Industries CHL277 Materials of Construction
+CHL291 Introduction to Biochemical Engineering CHL296 Nano Engineering of Soft Materials CHL332 Fluidization Engineering
+CHL353 Modern Separation Processes
+CHL390 Process Utilities and Pipeline Design CHL392 Polymer Science and Engineering
+CHL705 Electrokinetic Transport Phenomena CHL707 Adsorption Separation Processes
+CHL710 Process Dynamics and Control
+CHL722 Fundamentals of Fuel Cell Technology CHL724 Environmental Engineering and Waste Management
+CHL727 Heterogeneous Catalysis and Catalytic Processes
+CHL731 Introduction to Soft Matter
+CHL743 Petrochemical Technology
+CHL751 Multi-component Mass Transfer CHL766 Interfacial Engineering
+CHL768 Fundamentals of Computational Fluid Dynamics
+CHL771 Process Operation Scheduling
+CHL773 Planning of Experiments and Analysis of Engineering Data
+CHL774 Process Optimization
+CHL777 Bioprocessing and Bioseperation
+CHL792 Structures & Properties of Polymer in Solution
+CHL793 Membrane Science and Engineering
+CHL794 Petroleum Refinery Engineering
+CHR310 Professional Practices (CH) CHS310 Independent Study (CH) CHD412 Major Project Part 2 (CH)
+#Engineering Arts and Sciences (EAS) Core
+AML120 Materials Science
+CSL101 Introduction to Computers and Programming
+EEL102 Principles of Electrical Engineering MEL110 Graphic Science
+MEL120 Manufacturing Practices
+#Humanities and Social Sciences (HC) Core
+HUN100 Introduction to Humanities and Social Sciences
+#Departmental Core (DC)
+CHC410 Colloquium (CH) CHD411 Major Project Part 1 (CH)
+CHL110 Transport Phenomena
+CHL111 Material and Energy Balance
+CHL112 Chemical Process Technology
+CHL121 Chemical Engineering Thermodynamics
+CHL122 Chemical Reaction Engineering – I
+CHL221 Chemical Reaction Engineering – II CHL231 Fluid Mechanics for Chemical Engineers CHL251 Heat and Mass Transfer
+CHL261 Instrumentation and Process Control CHL331 Fluid-particle Mechanics
+CHL351 Mass Transfer Operations
+CHL471 Process Equipment Design and Economics CHN110 Introduction to Chemical Engineering
+CHP301 Fluid Mechanics and Heat Transfer Laboratory
+CHP302 Mass Transfer and Fluid Particle Mechanics Laboratory
+CHP303 Chemical Reaction Engineering and Process Control Laboratory
+CHP311 Design and Laboratory Practices CHT410 Practical Training (CH)

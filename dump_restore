@@ -1,0 +1,5 @@
+pg_dump -U psql -h localhost courseators -f db.sql
+
+
+psql -U psql -h localhost -d courseators -f db.sql 
+

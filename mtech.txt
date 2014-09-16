@@ -1,0 +1,95 @@
+
+
+
+
+Interdisciplinary M.Tech. Programmes
+COURSE DETAILS
+M. Tech. Programme in Computer Applications
+JCD799 Minor Project
+3 credits (0-0-6)
+JCS800 Independent Study
+3 credits (0-3-0)
+JCD801 Major Project (Part-I)
+6 credits (0-0-12)
+JOD802 Major Project (Part-II)
+12 credits (0-0-24)
+M. Tech. Programme in Energy Studies 
+JED799 Minor Project
+3 credits (0-0-6)
+JES800 Independent Study
+3 credits (0-3-0)
+JED801 Major Project Part-1
+6 credits (0-0-12)
+JED802 Major Project Part-2
+2 credits (0-0-24)
+
+
+
+
+M. Tech. Programme in Energy & Environmental Management
+JSS800 Independent Study
+3 credits (0-3-0)
+JSD801 Major Project (Part-I)
+6 credits (0-0-12)
+JSD802 Major Project (Part-II)
+12 credits (0-0-24)
+
+
+
+M. Tech. Programme in Industrial Tribology &  Maintenence Engineering 	
+JIS800 Independent Study
+3 credits (0-3-0)
+JID801 Major Project (Part-I)
+6 credits (0-0-12)
+JID802 Major Project (Part-II)
+12 credits (0-0-24)
+
+
+
+M. Tech. Programme in Opto-electronics and Optical Communications
+JOS800 Independent Study
+3 credits (0-3-0)
+Detailed study on a contemporary topics in the area of Optoelectronics/ Optical Communication as suggested by the course coordinator.
+JOD801 Major Project (Part-I)
+6 credits (0-0-12)
+Studies on topics offered by the faculty in the area of Optoelectronics/ Optical Communication
+JOD802 Major Project (Part-II)
+12 credits (0-0-24)
+Detailed investigations on study of the topics offered by the faculties / supervisors. The project would generate simulations / experimentation/ technology development.
+JOP791 Fibre Optics and Optical Communication Lab-I
+3 credits (0-0-6)
+Experiments on characterisation of optical fibers, sources, detectors and modulators, in the Physics Department and experiments on electronics and communication in the Electrical Engineering Department.
+JOP792 Fibre Optics and Optical Communication Lab-II
+3 credits (0-0-6)
+Experiments on characterisation of optical fibers, sources, detectors and modulators, in the Physics Department and experiments on electronics and communication in the Electrical Engineering Department.
+M. Tech. Programme in Power Generation Technology  
+JGL710 Power Plant Performance and Economics
+3 credits (3-0-0)
+Electricity demand and growth, siting of power plants. Variable load operation in a grid, load curves for different consumers. Cost of electric power from different types of power plants. Performance characteristics of major equipment, viz., boiler, turbine, condenser, etc, and changes with operation. Data acquisition and analysis, and use of software packages for monitoring and optimization. Introduction to regulatory mechanisms. Case studies, Optimal Generation mix, Economic load dispatch, Unit commitment, Hydro thermal scheduling.
+JGL712 Power Plant Control and Instrumentation
+3 credits (3-0-0)
+Introduction : Static & dynamic characteristics of instruments, sensors, signal processing & data transmission elements, indicating & recording elements. Use of computers for data acquisition & analyzer, Signal and system Analyzers, Instrumentation for measuring temperature, pressure, flow, speed, vibration & noise, electrical parameters, on-line process instruments, choice & calibration of instruments. Automatic Process Control systems Representation. Feedback control concepts, Transient
+& Frequency response. Types of controllers, stability, Digital Control System, Modern Control theory, Boiler Control, Governing & Control of turbomachines.
+JGL716 Selected Topics in Power Plants
+3 credit (3-0-0)
+Power Plant layout, foundations, erection and commissioning, Fuel for modern power plants - their storage, handling and combustion systems, Diesel and Gas Turbine Power plants stand by and - Captive power plants, Combined cycle power plants, Environmental impacts and pollution control from, Thermal power plants, Miscellaneous topics.
+JGS800 Independent Study
+3 credits (0-3-0)
+JGD801 Major Project (Part-I)
+6 credits (0-0-12)
+JGD802 Major Project (Part-II)
+12 credits (0-0-24)
+
+M. Tech. Programme in Polymer Science & Technology 	 
+JPD799 Minor Project
+3 credits (0-0-6)
+The student will work on a small project on any area of polymers. The topic of research may not be linked with JPD 801 or JPD 802.
+JPS800 Independent Study
+3 credits (0-3-0)
+Objective: The student is expected to take a course from the PE category and will study the full course under the guidance of course teacher.
+JPD801 Major Project (Part-I)
+6 credits (0-0-12)
+A student will select a topic on any area related with polymers and perform the research work for one semester (IIIrd semester).
+JPD802 Major Project (Part-2)
+6 credits (0-0-12)
+The student will continue to work on the topic selected in the semester III, the work content will be further extended which will include additional studies, modifications/diversification of the broad research. The work will be done for the full 4th semester.

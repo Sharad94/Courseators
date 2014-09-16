@@ -1,0 +1,3 @@
+ldapsearch -x -LLL "(&(category=btech)(department=cse))" | grep '^dn:' | perl -p -e 's/dn: uid=(.*),ou=.*/\1/g' >> entry_nos.txt
+
+ldapsearch -x -LLL "(&(uid=me112*)(department=mech))" | grep '^dn:' | perl -p -e 's/dn: uid=(.*),ou=.*/\1/g' >> entry_nos.txt

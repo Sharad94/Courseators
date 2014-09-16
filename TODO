@@ -1,0 +1,42 @@
+@Baaga:
+	- Parser for CSV
+	- Note down required credits for degree requirements(DE,DC,PE,PC,Basic Sciences) of each department
+	- Complete the review form on the course.php page
+	- Complete the SQL queries of course_done.php page
+
+@Chotu:
+	- Upload all data in database.
+	- Quora
+
+@Jindi:
+	- Add Students and Professors data into table on Tuesday 
+	- Make interface for courses done page for each semester-IMPORTANT.
+
+@Later:
+	- Some dummy review has been added. Generate Pie Charts from the data.
+	- Students can only add review of done courses. If else condition will suffice
+	- 
+
+
+triggers : 
+ask-Question trigger on asks when added to questions
+when some body adds to tentative courses trigger studentregistered + 1 in coursesem
+
+index:
+tentative courses mein department ka column daal ke index taaki suggest courses acc. to them (students registegered)
+
+view:
+done courses mein view bana do same dep ka as logged in  taaki suggest courses acc. to them (students registegered)
+
+
+@foreign keys:
+On delete cascade, on update cascade
+
+
+@suggestions
+write third query
+show only those courses whose prerequirements are met.
+
+
+
+
